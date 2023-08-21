@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include "shell.h"
+
+/**
+* add - Add two integers.
+* @numb1: The first integer to be added.
+* @numb2: The second integer to be added.
+*
+* Return: The sum of both integers.
+*/
+int add(int numb1, int numb2)
+{
+	return (numb1 + numb2);
+}
