@@ -1,8 +1,13 @@
 #include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
-
-#int main(int ac, char **argv)
+ 
+/**
+ *prog
+ *
+ *
+ */
+int main(int ac, char **argv)
 {
 	char *prompt = "(Tshell) $";
 	char *lineptr;
